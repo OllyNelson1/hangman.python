@@ -1,2 +1,2 @@
 # hangman.python
-My hangman game on python with dad's help
+My hangman game on python
